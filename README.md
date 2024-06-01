@@ -20,7 +20,7 @@
 <a href="https://www.codechef.com/users/nilakshi5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shitu_24" height="30" width="40" /></a>
 <a href=https://www.hackerrank.com/profile/nilakshisonawan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shitalhote2002" height="30" width="40" /></a>
 <a href="https://leetcode.com/nilakshisonawane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shital_hote" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shitalhote2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shitalhote2002" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/nilakshisoh6sk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shitalhote2002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
