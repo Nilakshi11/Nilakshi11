@@ -1,16 +1,16 @@
 
- <h1 align="center" style="color:"blue"">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30" height="30" />, I am Aniruddha Sonawane</h1>
+ <h1 align="center" style="color:"blue"">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30" height="30" />, I am Nilakshi Sonawane</h1>
  <h3 align="center"> An enthusiastic web developer and Java Developer who is after excellence, integrity and collaboration, team player with strong interpersonal and time management skills.</h3>
  <p  align="center" >
  <img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_960_720.png" width='1200' heigth="150"/>
  </p>
  
  <h2>🙋‍♂️ About Me</h2>
- <p>🌱 I’m currently learning : Full Stack Web Development
+ <p>🌱 I’m currently learning : Data Structures and Algorithm
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-💬 Ask me about : Data Structures and Algorithms, JavaScript, React and MongoDb
+💬 Ask me about : Data Structures and Algorithms, Python, C++ and MongoDb
 
 🥅 2024 Goals : Learning new things and contribute more</p>
 
