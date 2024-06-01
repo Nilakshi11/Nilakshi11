@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/nilakshi-sonawane-350086291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shital-hote-cs/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shitalhote4401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shitalhote4401" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shitu_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shitu_24" height="30" width="40" /></a>
+<a href="https://youtube.com/@bytebard3?si=fQBtQsiU9e3m6dBW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Nilakshi11" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nilakshi5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shitu_24" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shitalhote2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shitalhote2002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shital_hote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shital_hote" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shitalhote2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shitalhote2002" height="30" width="40" /></a>
