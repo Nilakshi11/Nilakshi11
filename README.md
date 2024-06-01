@@ -1,59 +1,31 @@
+<h1 align="center">Hi 👋, I'm Nilakshi Sonawane</h1>
+<h3 align="center">I am a Computer Engineering Student -Always improving my knowledge related to Technical and Non-Technical Domains. -An excellent collaborator!</h3>
 
- <h1 align="center" style="color:"blue"">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30" height="30" />, I am Nilakshi Sonawane</h1>
- <h3 align="center"> An enthusiastic web developer and Java Developer who is after excellence, integrity and collaboration, team player with strong interpersonal and time management skills.</h3>
- <p  align="center" >
- <img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_960_720.png" width='1200' heigth="150"/>
- </p>
- 
- <h2>🙋‍♂️ About Me</h2>
- <p>🌱 I’m currently learning : Data Structures and Algorithm
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shitu-ui" alt="shitu-ui" /></a> </p>
 
-🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
+- 🔭 I’m currently working on **enhancing DSA knowledge**
 
-💬 Ask me about : Data Structures and Algorithms, Python, C++ and MongoDb
+- 🌱 I’m currently learning **problem solving skills**
 
-🥅 2024 Goals : Learning new things and contribute more</p>
+- 👯 I’m looking to collaborate on **CodeClause projects**
 
- <h2>🚀 Skills and Languages </h2>
- <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s" heigth="60" width="60"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" heigth="60" width="60"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KINqrhal2CQq7f4mTGQh5mLS2QkB-WHLdxUtlzY80df5Lp_qLmki2m9WiTcXNp7lnAM&usqp=CAU" heigth="60" width="60"/>
-<img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" heigth="60" width="60"/>
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" heigth="60" width="60"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6t4EEo5cGPHLVjGtrTqO0xBNEdzwZP5flBdEliAD3Q&s" heigth="60" width="60"/>
-<img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" heigth="60" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" heigth="60" width="60"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-zehSv5e0VE6BKGXu58Ad2-BNb5z-m1umUitz-VOmw&s" heigth="60" width="60"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0eQ2-dgasuxVRhKlrZxjfT1jDXE1XTKg292Qc98Y3w&s" heigth="60" width="60"/>
-<img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" heigth="60" width="60"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" heigth="60" width="60"/>
-  <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" heigth="60" width="60"/>
+- 👨‍💻 All of my projects are available at [https://github.com/Shitu-ui](https://github.com/Shitu-ui)
+
+- 💬 Ask me about **Web Development and DSA**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shital-hote-cs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shital-hote-cs/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shitalhote4401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shitalhote4401" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shitu_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shitu_24" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shitalhote2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shitalhote2002" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shital_hote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shital_hote" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shitalhote2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shitalhote2002" height="30" width="40" /></a>
 </p>
 
-<h2> ◽ Hobbies</h2>
-<p> * Swimming</P>
-<p> * playing cricket</P>
-<p> * Traveling</P>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shitu-ui&show_icons=true&locale=en&layout=compact" alt="shitu-ui" /></p>
 
-<h2>◽ Find Me on📱 :</h2>
- <p> [Linkdin]: https://linkedin.com/in/aniruddha-sonawane-13160b254 </P>
- <p> [Twitter]: https://x.com/AniruddhaSona14 </P>
- 
- 
- <h2>- What i do</h2>
- <p  align="center">
- <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
- </p>
- 
- <h2>◽ GitHub Stats 📊 :</h2>
- <p  align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Aniruddha-123-anii&theme=tokyonight&show_icons=true"  heigth="200" width="565"/>
- <img src="https://camo.githubusercontent.com/0e3a463860178609f80c804e18d833db702ceb7bcf194dfbd63e60da960e6763/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61736869736838373936267468656d653d746f6b796f6e69676874"   heigth="100" width="235"/> 
-</p>
-
-
-
- 
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shitu-ui&" alt="shitu-ui" /></p>
