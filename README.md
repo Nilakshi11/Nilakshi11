@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilakshi Sonawane</h1>
 <h3 align="center">I am a Computer Engineering Student -Always improving my knowledge related to Technical and Non-Technical Domains. -An excellent collaborator!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shitu-ui" alt="shitu-ui" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nilakshi11" alt="Nilakshi11" /></a> </p>
 
 - 🔭 I’m currently working on **enhancing DSA knowledge**
 
